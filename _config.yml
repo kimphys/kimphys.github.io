@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sehoon Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg"
   bio              : "AI developer. M.S., Physics in Tohoku University"
   location         : "Seoul, South Korea"
   email            :
